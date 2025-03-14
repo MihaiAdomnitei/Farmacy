@@ -1,10 +1,10 @@
-Pharmacy Management System
+# Pharmacy Management System
 
 Project Description
 
 This project is a Pharmacy Management System designed to manage a collection of medications. It provides functionalities to add, update, delete, search, filter, and sort medications. Additionally, it supports managing a recipe (a list of selected medications), including adding medications to the recipe, deleting all medications from the recipe, populating the recipe with random medications, and exporting the recipe to HTML and CSV formats. 
 
-Technologies Used : 
+# Technologies Used : 
 
 -> C++: The core programming language used for implementing the application logic.
 
@@ -16,7 +16,7 @@ Technologies Used :
 
 -> Standard Template Library (STL): Utilized for data structures such as vectors, unordered maps, and algorithms.
 
-Features : 
+# Features : 
 
 -> Add Medication: Add a new medication to the collection.
 
